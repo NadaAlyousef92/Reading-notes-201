@@ -1,7 +1,7 @@
 
 |Topic      | Link                   |
 |-----------|------------------------|
-|Read01     | [Link 1 ]()|
+|Read01     | [Link 1 ](./class.01.md)|
 | Read02   | [Link 2 ]()|
 |  Read02a  | [Link 3 ]()|
 |Read03     | [Link 4 ]()|
