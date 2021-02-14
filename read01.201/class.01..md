@@ -1,4 +1,4 @@
-Structure of HTML on pages
+# Structure of HTML on pages
 HTMI:Its a software language made up of characters thats lied laid inside angled brackets called elements make up of two tags opening and closing tags
 
 strucure of HTML on pages to describe structure of web pages we add HTML codes for this pages for example:
@@ -37,7 +37,7 @@ its Its important to understand who your target type of audience and start organ
 Note: getting your message by using HTML and CSS elements to write and design your pages by using different pieces of information using size, color and style
 
 
-#**Javascript**
+<  #**Javascript**  >
 
 *How does Javascript makes web pages more interactive?*
 
@@ -55,10 +55,10 @@ Note: getting your message by using HTML and CSS elements to write and design yo
 *specifying that the script should when a specific event has occurred.*
 
 
-##**The ABC of programming**
+## **The ABC of programming**
 
-- **A** What is a script and how do I create one?
-* A script is a series of instructions that the computer follow to achieve a goal.*
+-**A** What is a script and how do I create one?
+*A script is a series of instructions that the computer follow to achieve a goal.*
 
 To write a script you need to first state the goals then list the tasks that need to be completed in order to achieve it.
 
@@ -93,6 +93,6 @@ events which are triggered when a user interacts with the computer.
 3.linking to a javascript file from an HTML page 
 4.placing the script in the page
 
-[!img](!/https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2Fd8a7e9988511&psig=AOvVaw1-HSWxFVqhnzpsqJfgBtjy&ust=1612722974734000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjKn7Pz1e4CFQAAAAAdAAAAABAD)
+[img](/https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2Fd8a7e9988511&psig=AOvVaw1-HSWxFVqhnzpsqJfgBtjy&ust=1612722974734000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjKn7Pz1e4CFQAAAAAdAAAAABAD)
 
-Sammarized by Nada Alyousef 
+Sammarized by Nada
