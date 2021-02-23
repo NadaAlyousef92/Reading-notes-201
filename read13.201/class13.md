@@ -32,6 +32,6 @@ Before HTML5, all attempts to chieve this were ultimately unsatisfactory in diff
 
 **“5 megabytes” is how much storage space each origin gets by default. This is surprisingly consistent across browsers, although it is phrased as no more than a suggestion in the HTML5 Storage specification.**
 
-[link](!https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.exeideas.com%2F2016%2F03%2Fhtml5-local-storage.html&psig=AOvVaw1DttYMbZEJZwBQ59jgBL3O&ust=1614135644782000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj46oiC_-4CFQAAAAAdAAAAABAD)
+
 
 [link](http://diveinto.html5doctor.com/storage.html)
